@@ -50,6 +50,10 @@ It provides structured responses in a user-friendly format:
 | **Version Control** | GitHub |
 
 ---
+## 🔗 Project Video Links
+https://drive.google.com/file/d/101Clto2DQoSbWGv7J-LqKT-18peSVPjA/view?usp=drive_link
+## PPT LINK
 
+https://docs.google.com/presentation/d/1ZdFkRfqfyUeN8nydBY82SRCdb_JpcNgS/edit?usp=drive_link&ouid=117682677189644241727&rtpof=true&sd=true
 
 
