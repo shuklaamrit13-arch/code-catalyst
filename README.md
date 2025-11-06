@@ -49,6 +49,35 @@ It provides structured responses in a user-friendly format:
 | **Hosting** | Google Cloud Run / Render |
 | **Version Control** | GitHub |
 
+
+## 🎯 Target Audience
+
+**HealthMate – AI Symptom Companion** is designed for a broad audience seeking reliable, easy-to-understand health insights.  
+It especially benefits individuals who face barriers to immediate healthcare access or reliable medical information.
+
+### 👥 Primary Target Users
+1. **Students**  
+   - For quick, trustworthy guidance on common health issues.  
+   - Helps manage minor symptoms during studies or hostel life.
+
+2. **Families & Working Professionals**  
+   - For parents or busy individuals needing quick advice on mild symptoms at home or work.  
+   - Offers peace of mind before visiting a doctor.
+
+3. **General Public (Urban & Rural)**  
+   - Empowers people with limited access to healthcare facilities.  
+   - Reduces dependence on unreliable online symptom searches.
+
+4. **Elderly Users (Future Enhancement)**  
+   - Can be adapted with voice support and simplified interface for seniors.
+
+---
+
+### 🌍 Why This Audience?
+- Large population relies on **internet searches** for health guidance.  
+- Growing demand for **AI-based, multilingual, accessible** healthcare tools.  
+- HealthMate bridges the gap between **self-awareness** and **professional care** using an empathetic, AI-driven approach.
+
 ---
 ## 🔗 Project Video Links
 https://drive.google.com/file/d/101Clto2DQoSbWGv7J-LqKT-18peSVPjA/view?usp=drive_link
