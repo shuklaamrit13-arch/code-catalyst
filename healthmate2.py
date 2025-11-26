@@ -11,8 +11,8 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS
 app.secret_key = 'your_secret_key_here'
 
-genai.configure(api_key="AIzaSyDkw17p78-gaNe0Wh2IbBDqOSkDvRmkp3k")
-client = genai_client.Client(api_key="AIzaSyDkw17p78-gaNe0Wh2IbBDqOSkDvRmkp3k")
+genai.configure(api_key="your api key")
+client = genai_client.Client(api_key="your api key")
 
 preferred_model = "gemini-2.5-flash"
 try:
@@ -105,4 +105,5 @@ def clear_history():
     return jsonify({'response': 'Chat history cleared.'})
 
 if __name__ == '__main__':
+
     app.run(debug=True)
